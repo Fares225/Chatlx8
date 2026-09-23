@@ -1,0 +1,17 @@
+{
+  "name": "chatlx",
+  "version": "1.0.0",
+  "description": "Chatlx - Modern Real-time Chat Application with Google Authentication",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["chat", "chatlx", "google-auth", "socketio", "realtime"],
+  "author": "Chatlx Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
